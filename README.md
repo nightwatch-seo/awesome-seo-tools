@@ -326,7 +326,7 @@ Get pages indexed and watch for changes, outages, and regressions.
 - [Tag Parrot](https://tagparrot.com/) - Monitors and helps get pages indexed faster in Google.
 - [URL Monitor](https://urlmonitor.com/) - Tracks indexing status and automates indexing requests at scale.
 - [Little Warden](https://littlewarden.com/) - Monitors robots.txt, canonicals, SSL, uptime, and other SEO-critical settings.
-- [Conductor Website Monitoring](https://www.conductor.com/website-monitoring/) - Real-time SEO change monitoring and instant alerts (formerly ContentKing).
+- [Conductor Website Monitoring](https://www.conductor.com/platform/website-monitoring/) - Real-time SEO change monitoring and instant alerts (formerly ContentKing).
 - [IndexMeNow](https://www.indexmenow.io/) - Fast paid indexing service for stubborn URLs.
 - [SpeedyIndex](https://speedyindex.com/) - Bulk indexing service for large URL sets.
 - [Omega Indexer](https://omegaindexer.com/) - Link and URL indexing service.
@@ -402,7 +402,7 @@ Rank on Amazon, Shopify, and other marketplaces and storefronts.
 - [Perpetua](https://perpetua.io/) - Amazon advertising and growth optimization.
 - [Smart SEO](https://apps.shopify.com/smart-seo) - Shopify app for meta tags, JSON-LD, and sitemaps.
 - [Booster SEO](https://apps.shopify.com/seo-booster) - Shopify image alt-text and meta optimization app.
-- [TinyIMG](https://apps.shopify.com/tiny-img) - Shopify image compression and SEO automation.
+- [TinyIMG](https://tiny-img.com/) - Shopify image compression and SEO automation.
 - [Avada SEO](https://apps.shopify.com/avada-seo-suite) - Shopify SEO suite for audits, meta, and speed.
 
 ## YouTube & Video SEO
@@ -410,7 +410,7 @@ Rank on Amazon, Shopify, and other marketplaces and storefronts.
 Optimize videos for YouTube search and discovery.
 
 - [YouTube Studio Analytics](https://studio.youtube.com/) - 🆓 Native performance, traffic-source, and search data.
-- [Ahrefs YouTube Keyword Tool](https://ahrefs.com/keyword-generator/youtube) - 🆓 Free YouTube keyword ideas with volume.
+- [Ahrefs YouTube Keyword Tool](https://ahrefs.com/youtube-keyword-tool) - 🆓 Free YouTube keyword ideas with volume.
 - [Rapidtags](https://rapidtags.io/) - 🆓 Generates optimized YouTube tags from a title.
 - [TubeBuddy](https://www.tubebuddy.com/) - YouTube optimization, A/B testing, and bulk tools inside Studio.
 - [vidIQ](https://vidiq.com/) - YouTube keyword research, competitor tracking, and ideation.
