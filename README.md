@@ -1,6 +1,6 @@
 # Awesome SEO Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of **219+ SEO tools** across **19 categories** — keyword research, rank tracking, backlinks, technical SEO, and the new AI search era (GEO / AEO). Updated for 2026.
+> A curated list of **220+ SEO tools** across **19 categories** — keyword research, rank tracking, backlinks, technical SEO, and the new AI search era (GEO / AEO). Updated for 2026.
 
 Every entry is one line: what the tool *actually does*, without the marketing fluff. Tools are ordered roughly **free/open-source first, then most useful → niche** within each category.
 
@@ -95,9 +95,9 @@ Find, expand, and prioritize the terms your audience is actually searching for.
 Monitor where you sit in the SERPs by keyword, location, and device.
 
 - [SerpBear](https://docs.serpbear.com/) - 🔓 🆓 Self-hosted, open-source keyword position tracker.
+- [Nightwatch](https://nightwatch.io/) - Precise daily rank tracking across Google, Bing, and AI search engines, with granular geo targeting, segments, and reporting.
 - [Wincher](https://www.wincher.com/) - Fast, affordable daily rank tracking with reporting and alerts.
 - [AccuRanker](https://www.accuranker.com/) - Speed-focused tracker favored by agencies for large keyword sets.
-- [Nightwatch](https://nightwatch.io/) - Cloud rank tracking and analytics with granular geo targeting.
 - [Advanced Web Ranking](https://www.advancedwebranking.com/) - Long-standing tracker with deep SERP-feature and share-of-voice reporting.
 - [SERPWatcher](https://serpwatch.io/) - Mangools' clean, no-frills rank tracker with a Dominance Index.
 - [Nozzle](https://nozzle.io/) - Enterprise-grade SERP monitoring with unlimited keyword and pixel-depth data.
@@ -170,6 +170,7 @@ Brief, write, and grade content against what already ranks.
 Track and improve how your brand shows up in ChatGPT, Perplexity, Gemini, and Google AI Overviews. Generative Engine Optimization (GEO) / Answer Engine Optimization (AEO) is the fastest-moving corner of search.
 
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - 🔓 🆓 Local-first, self-hosted AI visibility dashboard (BYOK) with mention tracking, citation analysis, and competitor battlecards.
+- [Nightwatch](https://nightwatch.io/) - Tracks your visibility in Google AI Overviews and AI search engines alongside classic rankings, with granular geo and device targeting.
 - [Profound](https://www.tryprofound.com/) - 🏢 End-to-end AEO platform tracking mentions and citations across 10+ AI engines.
 - [Peec AI](https://peec.ai/) - Prompt-level brand-visibility tracking across ChatGPT, Perplexity, Gemini, and Grok.
 - [Otterly.AI](https://otterly.ai/) - Affordable AI-search monitoring for mentions, links, and sentiment.
