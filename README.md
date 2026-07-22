@@ -39,12 +39,13 @@ Every entry is one line: what the tool *actually does*, without the marketing fl
 
 Full suites that combine keyword research, backlinks, rank tracking, audits, and reporting.
 
+- [Seobility](https://www.seobility.net/) - 🆓 Freemium all-in-one with a strong free tier for audits, keywords, and rank tracking.
+- [SEOptimer](https://www.seoptimer.com/) - 🆓 Instant audit reports and white-label tools for agencies.
 - [Ahrefs](https://ahrefs.com/) - Backlink-first suite with one of the largest link indexes; also strong on keywords, audits, and content research.
 - [Semrush](https://www.semrush.com/) - Broadest toolkit on the market — SEO, PPC, content, competitor and social research in one platform.
 - [Moz Pro](https://moz.com/) - Rankings, link data, site crawl, and the widely-cited Domain Authority metric.
 - [SE Ranking](https://seranking.com/) - Agency-tailored all-in-one platform with flexible, affordable pricing.
 - [Serpstat](https://serpstat.com/) - Growth-oriented SEO platform covering keywords, backlinks, rank tracking, and audits.
-- [Seobility](https://www.seobility.net/) - 🆓 Freemium all-in-one with a strong free tier for audits, keywords, and rank tracking.
 - [Mangools](https://mangools.com/) - Beginner-friendly bundle (KWFinder, SERPChecker, LinkMiner, SERPWatcher, SiteProfiler).
 - [Ubersuggest](https://neilpatel.com/ubersuggest/) - Neil Patel's budget suite for keywords, content ideas, and basic audits.
 - [Morningscore](https://morningscore.io/) - Gamified, beginner-friendly SEO suite that frames tasks as a strategy game.
@@ -69,7 +70,6 @@ Full suites that combine keyword research, backlinks, rank tracking, audits, and
 - [seoClarity](https://www.seoclarity.net/) - 🏢 Enterprise SEO platform with the Sialto AI assistant and large-scale data.
 - [Authoritas](https://www.authoritas.com/) - 🏢 Enterprise rank tracking, SERP feature analysis, and reporting.
 - [Sitechecker](https://sitechecker.pro/) - Site audits, rank tracking, and monitoring with a clear issue-priority workflow.
-- [SEOptimer](https://www.seoptimer.com/) - 🆓 Instant audit reports and white-label tools for agencies.
 - [Cocolyze](https://cocolyze.com/) - All-in-one with rank tracking, audits, and backlink analysis.
 - [Rank Ranger](https://www.rankranger.com/) - Data-heavy platform for rank tracking, reporting, and SERP research.
 - [Serpple](https://serpple.com/) - Affordable rank tracking and SERP analytics suite.
@@ -87,51 +87,53 @@ Find, expand, and prioritize the terms your audience is actually searching for.
 - [AlsoAsked](https://alsoasked.com/) - 🆓 Maps "People Also Ask" question chains to reveal topical intent.
 - [Exploding Topics](https://explodingtopics.com/) - 🆓 Surfaces emerging trends and keywords before they peak.
 - [Moz Keyword Explorer](https://moz.com/explorer) - 🆓 Keyword ideas with volume, difficulty, and a Priority score.
+- [Soovle](https://soovle.com/) - 🆓 Free autocomplete scraper across Google, Bing, YouTube, Amazon, and Wikipedia at once.
+- [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator) - 🆓 Free keyword ideas with rough volume and difficulty.
+- [WordStream Keyword Tool](https://www.wordstream.com/keywords) - 🆓 Discover and prioritize the highest-value keywords to target.
+- [Serp Miner](https://serpminer.com/free-seo-tools) - 🆓 Autocomplete long-tail finder plus bulk exact-volume lookups.
+- [Keyword Sheeter](https://keywordsheeter.com/) - 🆓 Rapidly pulls thousands of autocomplete keywords for free.
+- [Answer Socrates](https://answersocrates.com/) - 🆓 Free question research from autocomplete and People Also Ask.
+- [Keyword.io](https://www.keyword.io/) - 🆓 Autocomplete keyword suggestions across many platforms.
 - [Keyword Tool](https://keywordtool.io/) - Pulls long-tail ideas from Google, YouTube, Bing, Amazon, and more autocompletes.
 - [Keywords Everywhere](https://keywordseverywhere.com/) - Browser add-on showing volume, CPC, and competition inline as you browse.
 - [LowFruits](https://lowfruits.io/) - Finds low-competition, long-tail keywords weak sites are ranking for.
-- [Soovle](https://soovle.com/) - 🆓 Free autocomplete scraper across Google, Bing, YouTube, Amazon, and Wikipedia at once.
-- [Ahrefs Keyword Generator](https://ahrefs.com/keyword-generator) - 🆓 Free keyword ideas with rough volume and difficulty.
 - [Semrush Keyword Magic Tool](https://www.semrush.com/analytics/keywordmagic/start) - Millions of grouped suggestions with intent and difficulty filters.
-- [WordStream Keyword Tool](https://www.wordstream.com/keywords) - 🆓 Discover and prioritize the highest-value keywords to target.
 - [kwrds.ai](https://www.kwrds.ai) - AI keyword and question research with search-intent scoring.
 - [Keyword Cupid](https://keywordcupid.com/) - Machine-learning keyword clustering that groups terms into ready-made content topics.
 - [Long Tail Pro](https://longtailpro.com/) - Classic long-tail keyword finder with competitiveness scoring.
 - [Keywordideas.xyz](https://keywordideas.xyz/) - Keyword suggestions from real Google data, seeded by a URL or example term.
 - [KeySearch LSI Keywords](https://www.keysearch.co/tools/lsi-keywords-generator) - Generate semantically related terms to enrich on-page coverage.
-- [Serp Miner](https://serpminer.com/free-seo-tools) - 🆓 Autocomplete long-tail finder plus bulk exact-volume lookups.
 - [Seoformulas](https://www.seoformulas.com) - Uncover untapped keywords and build rank-focused content formulas.
 - [Wordtracker](https://www.wordtracker.com/) - Long-standing keyword tool with volume and competition data.
-- [Keyword Sheeter](https://keywordsheeter.com/) - 🆓 Rapidly pulls thousands of autocomplete keywords for free.
 - [QuestionDB](https://questiondb.io/) - Finds the questions people ask around a keyword, sourced from communities.
-- [Answer Socrates](https://answersocrates.com/) - 🆓 Free question research from autocomplete and People Also Ask.
 - [GetKeywords](https://getkeywords.io/) - Local and multilingual keyword research with intent data.
 - [SECockpit](https://secockpit.com/) - In-depth keyword analysis with SERP difficulty and trends.
 - [Jaaxy](https://www.jaaxy.com/) - Keyword and niche research aimed at affiliate marketers.
-- [Keyword.io](https://www.keyword.io/) - 🆓 Autocomplete keyword suggestions across many platforms.
 - [Twinword Ideas](https://www.twinword.com/ideas/) - Keyword ideas grouped by relevance, intent, and pattern.
 
 ## Content Ideas & Topic Research
 
 Discover what to write about — trending topics, audience questions, and content gaps.
 
-- [BuzzSumo](https://buzzsumo.com/) - Find the most-shared content and trending topics by keyword or domain.
-- [SparkToro](https://sparktoro.com/) - Audience research revealing what your market reads, watches, and follows.
 - [Feedly](https://feedly.com/) - 🆓 RSS and AI feeds to monitor topics, trends, and competitors.
-- [GummySearch](https://gummysearch.com/) - Mines Reddit for audience pain points and content ideas.
-- [Glimpse](https://meetglimpse.com/) - Spots fast-rising search trends before they peak.
-- [Topic Mojo](https://topicmojo.com/) - Question and topic discovery from multiple search and social sources.
-- [Content Harmony](https://www.contentharmony.com/) - Data-driven content briefs built from SERP analysis.
 - [Perplexity](https://www.perplexity.ai/) - 🆓 Cited answer engine useful for topic research and source discovery.
 - [ChatGPT](https://chatgpt.com/) - 🆓 Brainstorm angles, outlines, and content gaps conversationally.
 - [Reddit](https://www.reddit.com/) - 🆓 Primary-source audience language, questions, and unmet needs.
 - [Google Scholar](https://scholar.google.com/) - 🆓 Authoritative sources and citations for research-backed content.
+- [BuzzSumo](https://buzzsumo.com/) - Find the most-shared content and trending topics by keyword or domain.
+- [SparkToro](https://sparktoro.com/) - Audience research revealing what your market reads, watches, and follows.
+- [GummySearch](https://gummysearch.com/) - Mines Reddit for audience pain points and content ideas.
+- [Glimpse](https://meetglimpse.com/) - Spots fast-rising search trends before they peak.
+- [Topic Mojo](https://topicmojo.com/) - Question and topic discovery from multiple search and social sources.
+- [Content Harmony](https://www.contentharmony.com/) - Data-driven content briefs built from SERP analysis.
 
 ## Rank Tracking
 
 Monitor where you sit in the SERPs by keyword, location, and device.
 
 - [SerpBear](https://docs.serpbear.com/) - 🔓 🆓 Self-hosted, open-source keyword position tracker.
+- [SERPRobot](https://www.serprobot.com/) - 🆓 Simple, cheap Google rank checker with a free daily allowance.
+- [Whatsmyserp](https://whatsmyserp.com/) - 🆓 Free bulk SERP position checker.
 - [Nightwatch](https://nightwatch.io/) - Precise daily rank tracking across Google, Bing, and AI search engines, with granular geo targeting, segments, and reporting.
 - [Wincher](https://www.wincher.com/) - Fast, affordable daily rank tracking with reporting and alerts.
 - [AccuRanker](https://www.accuranker.com/) - Speed-focused tracker favored by agencies for large keyword sets.
@@ -142,10 +144,8 @@ Monitor where you sit in the SERPs by keyword, location, and device.
 - [That's Rank!](https://www.thatisrank.com/) - Simple instant lookups of where you rank for every keyword.
 - [DAXRM Rank Tracker](https://www.daxrm.com/integrations/rank-tracker/) - Real-time tracking across multiple locations and devices.
 - [RankActive](https://rankactive.com/) - Rank tracking bundled with SERP analysis and site auditing.
-- [SERPRobot](https://www.serprobot.com/) - 🆓 Simple, cheap Google rank checker with a free daily allowance.
 - [Ranktracker](https://www.ranktracker.com/) - All-in-one rank tracking with keyword finder and audits.
 - [Keyword.com](https://keyword.com/) - Accurate daily rank tracking with client dashboards.
-- [Whatsmyserp](https://whatsmyserp.com/) - 🆓 Free bulk SERP position checker.
 
 ## Backlinks & Link Building
 
@@ -182,13 +182,13 @@ Audit your link profile, spy on competitors, prospect, and run outreach.
 
 Automate and optimize the links between your own pages.
 
+- [Internal Link Juicer](https://internallinkjuicer.com/) - 🆓 Automatic internal linking plugin for WordPress.
 - [Link Whisper](https://linkwhisper.com/) - AI internal-link suggestions for WordPress and Shopify as you write.
 - [InLinks](https://inlinks.com/) - Entity-based internal linking and schema automation grounded in NLP.
 - [LinkBoss](https://linkboss.io/) - AI-powered bulk internal linking with contextual and silo strategies.
 - [LinkStorm](https://linkstorm.io/) - Real-time internal-link auditing and suggestion tool.
 - [SEOJuice](https://seojuice.io/) - Automated internal linking and on-page optimization on autopilot.
 - [AIOSEO Link Assistant](https://aioseo.com/features/internal-link-assistant/) - Internal-linking suggestions and reporting inside the All in One SEO plugin.
-- [Internal Link Juicer](https://internallinkjuicer.com/) - 🆓 Automatic internal linking plugin for WordPress.
 - [Linkilo](https://linkilo.co/) - Internal link building and reporting plugin for WordPress.
 - [Yoast Internal Linking](https://yoast.com/features/internal-linking-tool/) - Related-post link suggestions inside Yoast SEO.
 - [Cluuu](https://cluuu.com/) - AI internal-link suggestions based on content relationships.
@@ -198,6 +198,7 @@ Automate and optimize the links between your own pages.
 Brief, write, and grade content against what already ranks.
 
 - [ContentSwift](https://github.com/hilmanski/contentswift) - 🔓 Open-source content research and optimization tool for SEO.
+- [SearchSocket](https://searchsocket.com/) - 🆓 Real-time on-page suggestions aligned to Google's guidelines.
 - [Clearscope](https://www.clearscope.io/) - Premium content-grading platform with clean term/relevance reports.
 - [Surfer SEO](https://surferseo.com/) - Data-driven on-page workflow scoring content against SERP competitors.
 - [Frase](https://www.frase.io/) - Fast SERP research, briefs, and AI drafting in one editor.
@@ -217,7 +218,6 @@ Brief, write, and grade content against what already ranks.
 - [TuxSEO](https://tuxseo.com/) - Fully automated, SEO-optimized blog creation on autopilot.
 - [GrackerAI](https://gracker.ai/) - Editorial and programmatic SEO tuned for B2B cybersecurity SaaS.
 - [TailorTask](https://www.tailortask.ai/solutions/for-seo) - AI agents that automate internal linking, outreach, and post creation.
-- [SearchSocket](https://searchsocket.com/) - 🆓 Real-time on-page suggestions aligned to Google's guidelines.
 - [Jasper](https://www.jasper.ai/) - Enterprise AI writing platform with brand voice and SEO modes.
 - [Copy.ai](https://www.copy.ai/) - AI copywriting and go-to-market content workflows.
 - [Scalenut](https://www.scalenut.com/) - AI SEO content from keyword to optimized draft.
@@ -235,6 +235,7 @@ Brief, write, and grade content against what already ranks.
 Track and improve how your brand shows up in ChatGPT, Perplexity, Gemini, and Google AI Overviews. Generative Engine Optimization (GEO) / Answer Engine Optimization (AEO) is the fastest-moving corner of search.
 
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - 🔓 🆓 Local-first, self-hosted AI visibility dashboard (BYOK) with mention tracking, citation analysis, and competitor battlecards.
+- [HubSpot AI Search Grader](https://www.hubspot.com/ai-search-grader) - 🆓 Free grader for how your brand appears in AI answers.
 - [Nightwatch](https://nightwatch.io/) - Tracks your visibility in Google AI Overviews and AI search engines alongside classic rankings, with granular geo and device targeting.
 - [Profound](https://www.tryprofound.com/) - 🏢 End-to-end AEO platform tracking mentions and citations across 10+ AI engines.
 - [Peec AI](https://peec.ai/) - Prompt-level brand-visibility tracking across ChatGPT, Perplexity, Gemini, and Grok.
@@ -247,7 +248,6 @@ Track and improve how your brand shows up in ChatGPT, Perplexity, Gemini, and Go
 - [SERPrecon](https://www.serprecon.com/) - Semantic competitive analysis with AI share-of-voice tracking.
 - [Semrush AI Toolkit](https://www.semrush.com/ai-toolkit/) - Tracks brand mentions and sentiment across AI assistants.
 - [Ahrefs Brand Radar](https://ahrefs.com/brand-radar) - Measures brand visibility across AI Overviews and answer engines.
-- [HubSpot AI Search Grader](https://www.hubspot.com/ai-search-grader) - 🆓 Free grader for how your brand appears in AI answers.
 - [Goodie AI](https://www.higoodie.com/) - GEO platform for monitoring and improving AI-search presence.
 - [Bluefish AI](https://www.bluefish.ai/) - Enterprise AEO analytics and optimization.
 - [Knowatoa](https://knowatoa.com/) - Tracks how AI assistants answer questions about your brand.
@@ -259,16 +259,16 @@ Track and improve how your brand shows up in ChatGPT, Perplexity, Gemini, and Go
 
 Check whether text reads as AI-generated — and, on the flip side, tools that rewrite it. Use responsibly.
 
-- [Originality.ai](https://originality.ai/) - AI-content and plagiarism detection built for publishers and SEO teams.
 - [GPTZero](https://gptzero.me/) - 🆓 Widely-used AI detector with a free tier, popular in education.
-- [Copyleaks](https://copyleaks.com/) - Enterprise AI-content and plagiarism detection with API and multilingual support.
-- [Winston AI](https://gowinston.ai/) - High-accuracy AI detection with multilingual support.
 - [Sapling AI Detector](https://sapling.ai/ai-content-detector) - 🆓 Free AI-text detector with sentence-level scoring.
 - [ZeroGPT](https://www.zerogpt.com/) - 🆓 Free, quick AI-content detector.
+- [QuillBot](https://quillbot.com/) - 🆓 Paraphrasing and rewriting with grammar and detection features.
+- [Originality.ai](https://originality.ai/) - AI-content and plagiarism detection built for publishers and SEO teams.
+- [Copyleaks](https://copyleaks.com/) - Enterprise AI-content and plagiarism detection with API and multilingual support.
+- [Winston AI](https://gowinston.ai/) - High-accuracy AI detection with multilingual support.
 - [Pangram](https://www.pangram.com/) - Research-grade AI detector focused on low false positives.
 - [Quetext](https://www.quetext.com/) - Plagiarism and AI-detection checker.
 - [Undetectable AI](https://undetectable.ai/) - Rewrites AI text to read as human (humanizer).
-- [QuillBot](https://quillbot.com/) - 🆓 Paraphrasing and rewriting with grammar and detection features.
 - [Humbot](https://humbot.ai/) - AI humanizer that aims to bypass common detectors.
 
 ## Technical SEO & Site Audits
@@ -280,57 +280,57 @@ Find and fix crawlability, indexation, and on-page issues.
 - [Yandex Webmaster](https://webmaster.yandex.com/) - 🆓 Indexing status, crawl stats, and query analytics for Yandex Search.
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - 🆓 Free Site Audit (170+ checks) and Site Explorer for verified sites.
 - [SEO Site Checkup](https://seositecheckup.com/) - 🆓 Quick automated audit scoring common on-page and technical issues.
-- [Screpy](https://screpy.com/) - AI-assisted monitoring dashboard for SEO, speed, and uptime.
 - [SiteAnalyzer](https://site-analyzer.pro/) - 🆓 Free desktop crawler with detailed per-page technical data.
-- [Ryte](https://en.ryte.com/) - Website quality platform for technical audits, content, and monitoring.
 - [BROWSEO](https://www.browseo.net) - 🆓 X-ray view of your page as a search engine sees it, stripped of styling.
-- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Grades a single page's optimization against a target keyword.
 - [SSR Checker](https://www.crawlably.com/ssr-checker/) - 🆓 Compares server-rendered vs. client-rendered output for any URL.
-- [Seomator](https://seomator.com/) - On-demand SEO audit with actionable fix lists.
-- [WebSite Auditor](https://www.link-assistant.com/website-auditor/) - Deep technical and on-page audit from SEO PowerSuite.
 - [TechnicalSEO.com Tools](https://technicalseo.com/tools/) - 🆓 Free suite: robots, hreflang, schema, redirects, and more.
 - [SEO Review Tools](https://www.seoreviewtools.com/) - 🆓 Large free toolbox for audits, keywords, and links.
 - [URL Inspection (Search Console)](https://support.google.com/webmasters/answer/9012289) - 🆓 See how Google crawls, renders, and indexes a specific URL.
+- [Screpy](https://screpy.com/) - AI-assisted monitoring dashboard for SEO, speed, and uptime.
+- [Ryte](https://en.ryte.com/) - Website quality platform for technical audits, content, and monitoring.
+- [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Grades a single page's optimization against a target keyword.
+- [Seomator](https://seomator.com/) - On-demand SEO audit with actionable fix lists.
+- [WebSite Auditor](https://www.link-assistant.com/website-auditor/) - Deep technical and on-page audit from SEO PowerSuite.
 - [PressProxy](https://pressproxy.io/) - No-code way to serve `blog.domain.tld` on `domain.tld/blog` via Cloudflare Workers.
 
 ## Web Crawlers & Log Analysis
 
 Purpose-built crawlers for large-scale audits, plus server-log analysis.
 
-- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry-standard desktop crawler (free up to 500 URLs).
-- [Screaming Frog Log File Analyser](https://www.screamingfrog.co.uk/log-file-analyser/) - Parse server logs to see exactly how bots crawl your site.
-- [Sitebulb](https://sitebulb.com/) - Audit crawler with prioritized hints and unusually clear visualizations.
 - [LibreCrawl](https://librecrawl.com/) - 🔓 🆓 Open-source crawler with unlimited URLs and Playwright JS rendering.
 - [SEOnaut](https://seonaut.org) - 🔓 🆓 Open-source technical SEO auditing tool.
 - [Python SEO Analyzer](https://github.com/sethblack/python-seo-analyzer) - 🔓 🆓 Crawls a site, counts content, and flags technical issues from the CLI.
 - [Black SEO Analyzer](https://github.com/sethblack/black-seo-analyzer) - 🔓 🆓 CLI SEO analysis tuned for visibility in both search and AI answers.
 - [IncRev JavaScript Crawler](https://github.com/VesterlundCoder/SEO-JavaScript-Crawler-IncRev) - 🔓 🆓 Crawler that renders JavaScript for React, Vue, and Angular sites.
+- [Greenflare](https://greenflare.io/) - 🔓 🆓 Open-source, lightweight SEO crawler for Linux, Windows, and Mac.
+- [Xenu's Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - 🆓 Classic free broken-link and site crawler for Windows.
+- [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - The industry-standard desktop crawler (free up to 500 URLs).
+- [Screaming Frog Log File Analyser](https://www.screamingfrog.co.uk/log-file-analyser/) - Parse server logs to see exactly how bots crawl your site.
+- [Sitebulb](https://sitebulb.com/) - Audit crawler with prioritized hints and unusually clear visualizations.
 - [Lumar](https://www.lumar.io/) - 🏢 Enterprise cloud crawler (formerly DeepCrawl) for large, complex sites.
 - [Oncrawl](https://www.oncrawl.com/) - 🏢 Technical SEO crawler and log analyzer with data-science reporting.
 - [JetOctopus](https://jetoctopus.com/) - 🏢 Fast enterprise crawler with integrated log analysis.
 - [Botify](https://www.botify.com/) - 🏢 Enterprise crawl, log, and analytics platform for very large sites.
-- [Greenflare](https://greenflare.io/) - 🔓 🆓 Open-source, lightweight SEO crawler for Linux, Windows, and Mac.
 - [Netpeak Spider](https://netpeaksoftware.com/spider) - Desktop crawler for technical audits and duplicate detection.
 - [Visual SEO Studio](https://visual-seo.com/) - Windows desktop crawler for technical audits, with a free tier.
-- [Xenu's Link Sleuth](https://home.snafu.de/tilman/xenulink.html) - 🆓 Classic free broken-link and site crawler for Windows.
 - [A1 Website Analyzer](https://www.microsystools.com/products/website-analyzer/) - Desktop crawler for audits and sitemap generation.
 
 ## Indexing & Monitoring
 
 Get pages indexed and watch for changes, outages, and regressions.
 
+- [Uptime Robot](https://uptimerobot.com/) - 🆓 Free uptime and response-time monitoring with alerts.
+- [IndexNow](https://www.indexnow.org/) - 🆓 Open protocol to instantly notify search engines of content changes.
+- [Visualping](https://visualping.io/) - 🆓 Website change detection with alerts.
+- [StatusCake](https://www.statuscake.com/) - 🆓 Uptime, page-speed, and domain monitoring.
 - [Tag Parrot](https://tagparrot.com/) - Monitors and helps get pages indexed faster in Google.
 - [URL Monitor](https://urlmonitor.com/) - Tracks indexing status and automates indexing requests at scale.
 - [Little Warden](https://littlewarden.com/) - Monitors robots.txt, canonicals, SSL, uptime, and other SEO-critical settings.
 - [Conductor Website Monitoring](https://www.conductor.com/website-monitoring/) - Real-time SEO change monitoring and instant alerts (formerly ContentKing).
-- [Uptime Robot](https://uptimerobot.com/) - 🆓 Free uptime and response-time monitoring with alerts.
-- [IndexNow](https://www.indexnow.org/) - 🆓 Open protocol to instantly notify search engines of content changes.
 - [IndexMeNow](https://www.indexmenow.io/) - Fast paid indexing service for stubborn URLs.
 - [SpeedyIndex](https://speedyindex.com/) - Bulk indexing service for large URL sets.
 - [Omega Indexer](https://omegaindexer.com/) - Link and URL indexing service.
 - [Hexowatch](https://hexowatch.com/) - Monitors any page for visual, content, and code changes.
-- [Visualping](https://visualping.io/) - 🆓 Website change detection with alerts.
-- [StatusCake](https://www.statuscake.com/) - 🆓 Uptime, page-speed, and domain monitoring.
 
 ## Page Speed & Core Web Vitals
 
@@ -343,11 +343,11 @@ Measure load performance and the metrics Google actually ranks on.
 - [GTmetrix](https://gtmetrix.com/) - 🆓 Page-speed analysis with actionable, prioritized recommendations.
 - [Pingdom Tools](https://tools.pingdom.com/) - 🆓 Quick load-time test with a performance grade and breakdown.
 - [Loader.io](https://loader.io/) - 🆓 Free load and stress testing to see how a site holds up under traffic.
-- [DebugBear](https://www.debugbear.com/test/website-speed) - Continuous monitoring with lab results and Google CrUX field data.
 - [Sitespeed.io](https://www.sitespeed.io/) - 🔓 🆓 Open-source toolkit for measuring and monitoring web performance.
 - [Yellow Lab Tools](https://yellowlab.tools/) - 🆓 🔓 Open-source page-quality and front-end performance audit.
 - [Cloudflare Observatory](https://developers.cloudflare.com/speed/) - 🆓 Speed testing and recommendations inside Cloudflare.
 - [KeyCDN Speed Test](https://tools.keycdn.com/speed) - 🆓 Quick performance test from multiple global locations.
+- [DebugBear](https://www.debugbear.com/test/website-speed) - Continuous monitoring with lab results and Google CrUX field data.
 - [Calibre](https://calibreapp.com/) - Continuous performance monitoring and budgets for teams.
 - [SpeedCurve](https://www.speedcurve.com/) - Synthetic and real-user performance monitoring.
 - [Treo](https://treo.sh/) - Core Web Vitals monitoring backed by field data.
@@ -357,16 +357,16 @@ Measure load performance and the metrics Google actually ranks on.
 
 Translate, localize, and get hreflang right for global audiences.
 
+- [Polylang](https://polylang.pro/) - 🆓 Popular free multilingual plugin for WordPress.
+- [hreflang Tags Generator](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/) - 🆓 Aleyda Solís's free hreflang markup generator.
+- [Merkle Hreflang Tool](https://technicalseo.com/tools/hreflang/) - 🆓 Generate and validate hreflang annotations.
+- [Weglot Hreflang Checker](https://www.weglot.com/tools/hreflang-checker) - 🆓 Check hreflang implementation on any page.
 - [Weglot](https://www.weglot.com/) - Website translation that auto-adds hreflang and translated URLs.
 - [WPML](https://wpml.org/) - The established multilingual plugin for WordPress.
-- [Polylang](https://polylang.pro/) - 🆓 Popular free multilingual plugin for WordPress.
 - [ConveyThis](https://www.conveythis.com/) - Website translation with SEO-friendly multilingual output.
 - [Bablic](https://www.bablic.com/) - Website localization and translation management.
 - [Smartling](https://www.smartling.com/) - 🏢 Enterprise translation management for global content.
 - [Lokalise](https://lokalise.com/) - Localization platform for teams and continuous translation.
-- [hreflang Tags Generator](https://www.aleydasolis.com/english/international-seo-tools/hreflang-tags-generator/) - 🆓 Aleyda Solís's free hreflang markup generator.
-- [Merkle Hreflang Tool](https://technicalseo.com/tools/hreflang/) - 🆓 Generate and validate hreflang annotations.
-- [Weglot Hreflang Checker](https://www.weglot.com/tools/hreflang-checker) - 🆓 Check hreflang implementation on any page.
 
 ## Local SEO
 
@@ -409,12 +409,12 @@ Rank on Amazon, Shopify, and other marketplaces and storefronts.
 
 Optimize videos for YouTube search and discovery.
 
-- [TubeBuddy](https://www.tubebuddy.com/) - YouTube optimization, A/B testing, and bulk tools inside Studio.
-- [vidIQ](https://vidiq.com/) - YouTube keyword research, competitor tracking, and ideation.
 - [YouTube Studio Analytics](https://studio.youtube.com/) - 🆓 Native performance, traffic-source, and search data.
 - [Ahrefs YouTube Keyword Tool](https://ahrefs.com/keyword-generator/youtube) - 🆓 Free YouTube keyword ideas with volume.
-- [Keyword Tool for YouTube](https://keywordtool.io/youtube) - YouTube autocomplete keyword suggestions.
 - [Rapidtags](https://rapidtags.io/) - 🆓 Generates optimized YouTube tags from a title.
+- [TubeBuddy](https://www.tubebuddy.com/) - YouTube optimization, A/B testing, and bulk tools inside Studio.
+- [vidIQ](https://vidiq.com/) - YouTube keyword research, competitor tracking, and ideation.
+- [Keyword Tool for YouTube](https://keywordtool.io/youtube) - YouTube autocomplete keyword suggestions.
 - [Morningfame](https://morningfa.me/) - YouTube analytics and keyword guidance for growth.
 - [Kparser](https://kparser.com/) - Keyword suggestions covering YouTube and other engines.
 - [Tubular](https://tubularlabs.com/) - 🏢 Enterprise social-video intelligence and analytics.
@@ -428,17 +428,17 @@ Understand traffic, behavior, and search performance — with privacy-friendly o
 - [Matomo](https://matomo.org/) - 🔓 🆓 Open-source, self-hostable analytics with full data ownership.
 - [Plausible](https://plausible.io/) - 🔓 Lightweight, cookieless, privacy-first analytics.
 - [Umami](https://umami.is/) - 🔓 🆓 Simple, self-hosted, privacy-focused web analytics.
+- [Hotjar](https://www.hotjar.com/) - 🆓 Heatmaps, recordings, and feedback for behavior insight.
+- [GoatCounter](https://www.goatcounter.com/) - 🔓 🆓 Open-source, privacy-friendly analytics.
+- [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) - 🆓 Free, privacy-first analytics with no client-side state.
+- [Statcounter](https://statcounter.com/) - 🆓 Simple visitor stats and Global Stats data.
 - [SEO Gets](https://seogets.com/) - Privacy-focused Search Console alternative built for agencies and affiliates.
 - [SEOTesting](https://seotesting.com/) - Runs SEO A/B tests and surfaces insights on top of Search Console data.
 - [Fathom Analytics](https://usefathom.com/) - Privacy-first, cookieless analytics.
 - [Simple Analytics](https://www.simpleanalytics.com/) - Privacy-friendly, GDPR-compliant analytics.
 - [Clicky](https://clicky.com/) - Real-time web analytics with heatmaps.
-- [Hotjar](https://www.hotjar.com/) - 🆓 Heatmaps, recordings, and feedback for behavior insight.
 - [Crazy Egg](https://www.crazyegg.com/) - Heatmaps, scrollmaps, and A/B testing.
-- [GoatCounter](https://www.goatcounter.com/) - 🔓 🆓 Open-source, privacy-friendly analytics.
-- [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) - 🆓 Free, privacy-first analytics with no client-side state.
 - [Piwik PRO](https://piwik.pro/) - Privacy-focused analytics and tag manager for regulated industries.
-- [Statcounter](https://statcounter.com/) - 🆓 Simple visitor stats and Global Stats data.
 
 ## Reporting & Client Dashboards
 
@@ -485,14 +485,14 @@ Validate markup, links, robots, and sitemaps.
 
 Pull SEO data programmatically and wire tools together.
 
+- [Zapier](https://zapier.com/) - 🆓 No-code automation connecting SEO tools to thousands of apps.
+- [Make](https://www.make.com/) - 🆓 Visual, node-based automation for more complex SEO workflows.
+- [n8n](https://n8n.io/) - 🔓 🆓 Open-source, self-hostable workflow automation.
 - [SerpApi](https://serpapi.com/) - Real-time SERP scraping API for Google and many other engines.
 - [DataForSEO](https://dataforseo.com/) - Comprehensive SEO data APIs — SERPs, keywords, backlinks, and on-page.
 - [SearchApi](https://www.searchapi.io/) - Fast, structured SERP and search-data API.
-- [Zapier](https://zapier.com/) - 🆓 No-code automation connecting SEO tools to thousands of apps.
-- [Make](https://www.make.com/) - 🆓 Visual, node-based automation for more complex SEO workflows.
 - [Gumloop](https://www.gumloop.com/) - AI-native workflow automation for content and SEO tasks.
 - [AirOps](https://www.airops.com/) - Build AI workflows and agents for SEO content at scale.
-- [n8n](https://n8n.io/) - 🔓 🆓 Open-source, self-hostable workflow automation.
 - [Serpstack](https://serpstack.com/) - Real-time Google SERP API.
 - [ValueSERP](https://www.valueserp.com/) - Scalable SERP data API.
 - [Zenserp](https://zenserp.com/) - SERP API for Google, Bing, and more.
@@ -511,12 +511,12 @@ On-page SEO, schema, and sitemaps inside your CMS.
 - [SEOPress](https://www.seopress.org/) - 🆓 🔓 Lightweight, no-ads WordPress SEO plugin with a generous free tier.
 - [The SEO Framework](https://theseoframework.com/) - 🆓 🔓 Fast, privacy-focused, automated WordPress SEO plugin.
 - [Slim SEO](https://wpslimseo.com/) - 🆓 Automated, zero-config WordPress SEO plugin that stays out of the way.
-- [Squirrly SEO](https://plugin.squirrly.co/) - AI-guided WordPress SEO with real-time suggestions.
 - [Redirection](https://redirection.me/) - 🔓 🆓 Manage 301 redirects and 404s in WordPress.
+- [Smush](https://wpmudev.com/project/wp-smush-pro/) - 🆓 Image optimization and lazy-loading for WordPress.
+- [Squirrly SEO](https://plugin.squirrly.co/) - AI-guided WordPress SEO with real-time suggestions.
 - [Schema Pro](https://wpschema.com/) - Adds rich-snippet schema markup in WordPress.
 - [WP Rocket](https://wp-rocket.me/) - Caching and performance plugin that improves Core Web Vitals.
 - [ShortPixel](https://shortpixel.com/) - Image compression and WebP/AVIF conversion for faster pages.
-- [Smush](https://wpmudev.com/project/wp-smush-pro/) - 🆓 Image optimization and lazy-loading for WordPress.
 - [WP Meta SEO](https://www.joomunited.com/wordpress-products/wp-meta-seo) - Bulk meta, image, and sitemap management for WordPress.
 
 ## Social & Open Graph
@@ -527,11 +527,11 @@ Control how your pages look when shared and generate share images.
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/) - 🆓 Inspect and refresh Open Graph data Facebook has cached.
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/) - 🆓 Preview and re-scrape link previews for LinkedIn.
 - [ShotOG](https://github.com/nicepkg/shotog) - 🔓 🆓 Open-source, edge-native OG image generation API (~50ms).
-- [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically with 10 templates.
 - [Metatags.io](https://metatags.io/) - 🆓 Preview and generate meta and Open Graph tags for all platforms.
 - [Vercel OG Image Playground](https://og-playground.vercel.app/) - 🆓 Generate dynamic OG images with JSX/HTML.
 - [Social Share Preview](https://socialsharepreview.com/) - 🆓 Preview how links look across social networks.
 - [heyMeta](https://www.heymeta.com/) - 🆓 Check and preview a page's meta and OG tags.
+- [ogimg.xyz](https://ogimg.xyz/) - API for generating Open Graph images programmatically with 10 templates.
 - [Bannerbear](https://www.bannerbear.com/) - Auto-generate social and OG images via API.
 - [Placid](https://placid.app/) - Templated image and OG-image generation API.
 
@@ -551,10 +551,7 @@ On-the-fly metrics and audits without leaving the page.
 - [Wappalyzer](https://www.wappalyzer.com/) - 🆓 Identifies the tech stack, CMS, and frameworks powering any site.
 - [BuiltWith](https://builtwith.com/) - 🆓 Detects the technologies and platforms a website is built on.
 - [Similarweb](https://chromewebstore.google.com/detail/similarweb/hoklmmgfnpapgjgcpechhaamimifchmp) - 🆓 Instant traffic estimates, rank, and audience geography.
-- [Checkbot](https://www.checkbot.io/) - Crawls hundreds of pages at once, checking 50+ SEO, speed, and security rules.
 - [SEO Search Simulator](https://chromewebstore.google.com/detail/seo-search-simulator-by-n/edfjfgjklednkencfhnokmkajbgfhpon) - 🆓 Emulates Google searches from any location to check rankings.
-- [TextOptimizer](https://chromewebstore.google.com/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - Extracts intent terms from SERPs to improve topical relevance.
-- [BuzzSumo](https://chromewebstore.google.com/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc) - Content, link, and social research from the toolbar.
 - [Woorank](https://www.woorank.com/) - 🆓 Instant website review scoring on-page, technical, and usability factors.
 - [MST SERP Counter](https://chromewebstore.google.com/detail/mst-serp-counter-seo-free/dgpekiojagcbjhgfpmmngnkchekcfifn) - 🆓 Shows position, count, and rank for results of a searched keyword.
 - [SEO Sidebar](https://chromewebstore.google.com/detail/seo-sidebar/gmmiickdcmghfpliaiefhjafccapgmpp) - 🆓 Persistent side panel of on-page SEO data with text-report export.
@@ -565,6 +562,9 @@ On-the-fly metrics and audits without leaving the page.
 - [Fatrank](https://chromewebstore.google.com/detail/fatrank/eanbmaadngmnbnfmpblmbcbdfeneddbc) - 🆓 Instantly checks a page's ranking for any keyword.
 - [Nofollow](https://chromewebstore.google.com/detail/nofollow/dfimckdfkemkobddabmecipjaifebdhb) - 🆓 Highlights nofollow links and outlines page structure.
 - [Mangools Extension](https://mangools.com/browser-extensions) - 🆓 On-the-fly SEO metrics from the Mangools suite.
+- [Checkbot](https://www.checkbot.io/) - Crawls hundreds of pages at once, checking 50+ SEO, speed, and security rules.
+- [TextOptimizer](https://chromewebstore.google.com/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - Extracts intent terms from SERPs to improve topical relevance.
+- [BuzzSumo](https://chromewebstore.google.com/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc) - Content, link, and social research from the toolbar.
 
 ---
 
