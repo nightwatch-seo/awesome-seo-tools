@@ -254,6 +254,7 @@ Track and improve how your brand shows up in ChatGPT, Perplexity, Gemini, and Go
 - [Evertune](https://www.evertune.ai/) - Brand analytics for how models represent you across prompts.
 - [Trakkr](https://trakkr.ai/) - AI-visibility monitoring and reporting.
 - [Waikay](https://waikay.io/) - "What AI Knows About You" — brand and entity analysis in LLMs.
+- [Mydentify AI Crawler Access Checker](https://mydentify.com/tools/ai-crawler-access-checker) - 🆓 Tests whether documented AI-search and user-retrieval crawlers can reach a page, and compares robots.txt rules with observed HTTP responses.
 
 ## AI Content Detection & Humanizers
 
