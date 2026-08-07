@@ -481,6 +481,8 @@ Validate markup, links, robots, and sitemaps.
 - [Structured Data Linter](http://linter.structured-data.org/) - 🆓 Extract and lint structured data from a URL.
 - [AMP Validator](https://validator.ampproject.org/) - 🆓 Validate AMP pages for compliance.
 
+- [Vaytric Link Health](https://vaytric.com/link-health/) - Free multi-URL broken link checker; optional one-time $5 full-site crawl CSV for 404s, 5xx, redirects, and missing titles.
+
 ## APIs & Automation
 
 Pull SEO data programmatically and wire tools together.
