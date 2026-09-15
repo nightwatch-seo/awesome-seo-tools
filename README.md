@@ -235,6 +235,7 @@ Brief, write, and grade content against what already ranks.
 Track and improve how your brand shows up in ChatGPT, Perplexity, Gemini, and Google AI Overviews. Generative Engine Optimization (GEO) / Answer Engine Optimization (AEO) is the fastest-moving corner of search.
 
 - [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker) - 🔓 🆓 Local-first, self-hosted AI visibility dashboard (BYOK) with mention tracking, citation analysis, and competitor battlecards.
+- [openllmrank](https://github.com/foodaka/openllmrank) - 🔓 🆓 Self-hosted CLI (BYOK) that tracks brand citations across the grounded OpenAI, Anthropic, Gemini, Perplexity, and xAI APIs, with competitor gap reports and content recommendations.
 - [HubSpot AI Search Grader](https://www.hubspot.com/ai-search-grader) - 🆓 Free grader for how your brand appears in AI answers.
 - [Nightwatch](https://nightwatch.io/) - Tracks your visibility in Google AI Overviews and AI search engines alongside classic rankings, with granular geo and device targeting.
 - [Profound](https://www.tryprofound.com/) - 🏢 End-to-end AEO platform tracking mentions and citations across 10+ AI engines.
