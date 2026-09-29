@@ -154,6 +154,7 @@ Audit your link profile, spy on competitors, prospect, and run outreach.
 - [Ahrefs Backlink Checker](https://ahrefs.com/backlink-checker) - 🆓 Free view of your top 100 backlinks and referring domains.
 - [Moz Link Explorer](https://moz.com/link-explorer) - 🆓 Backlink data with Domain/Page Authority and spam scoring.
 - [OpenLinkProfiler](https://openlinkprofiler.org/) - 🆓 Free backlink profiler with fresh, recently-discovered links.
+- [CrawlGraph](https://crawlgraph.com/) - 🆓 Common Crawl based backlink gap analysis with a free five-result preview.
 - [Majestic](https://majestic.com/) - Massive dedicated link index with Trust Flow and Citation Flow metrics.
 - [LinkMiner](https://mangools.com/linkminer/) - Mangools' backlink checker that flags the strongest and broken links.
 - [Monitor Backlinks](https://monitorbacklinks.com/) - Tracks new/lost links for you and your competitors, with disavow support.
