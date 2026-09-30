@@ -280,6 +280,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [Yandex Webmaster](https://webmaster.yandex.com/) - 🆓 Indexing status, crawl stats, and query analytics for Yandex Search.
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - 🆓 Free Site Audit (170+ checks) and Site Explorer for verified sites.
 - [SEO Site Checkup](https://seositecheckup.com/) - 🆓 Quick automated audit scoring common on-page and technical issues.
+- [Shipwork](https://shipwork.io/) - 🆓 Free public-site checks for crawlability, indexability, broken links, and product feeds; paid plans add full-site crawls and daily monitoring.
 - [SiteAnalyzer](https://site-analyzer.pro/) - 🆓 Free desktop crawler with detailed per-page technical data.
 - [BROWSEO](https://www.browseo.net) - 🆓 X-ray view of your page as a search engine sees it, stripped of styling.
 - [SSR Checker](https://www.crawlably.com/ssr-checker/) - 🆓 Compares server-rendered vs. client-rendered output for any URL.
