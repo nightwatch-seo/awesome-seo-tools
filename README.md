@@ -286,6 +286,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [TechnicalSEO.com Tools](https://technicalseo.com/tools/) - 🆓 Free suite: robots, hreflang, schema, redirects, and more.
 - [SEO Review Tools](https://www.seoreviewtools.com/) - 🆓 Large free toolbox for audits, keywords, and links.
 - [URL Inspection (Search Console)](https://support.google.com/webmasters/answer/9012289) - 🆓 See how Google crawls, renders, and indexes a specific URL.
+- [StrictSEO](https://strictseo.com/) - 🆓 Local-first SEO & AEO audit toolkit: 72 rendered-page checks, bounded crawls, and Search Console opportunity tracking for freelancers and consultants.
 - [Screpy](https://screpy.com/) - AI-assisted monitoring dashboard for SEO, speed, and uptime.
 - [Ryte](https://en.ryte.com/) - Website quality platform for technical audits, content, and monitoring.
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Grades a single page's optimization against a target keyword.
@@ -562,6 +563,7 @@ On-the-fly metrics and audits without leaving the page.
 - [Fatrank](https://chromewebstore.google.com/detail/fatrank/eanbmaadngmnbnfmpblmbcbdfeneddbc) - 🆓 Instantly checks a page's ranking for any keyword.
 - [Nofollow](https://chromewebstore.google.com/detail/nofollow/dfimckdfkemkobddabmecipjaifebdhb) - 🆓 Highlights nofollow links and outlines page structure.
 - [Mangools Extension](https://mangools.com/browser-extensions) - 🆓 On-the-fly SEO metrics from the Mangools suite.
+- [StrictSEO](https://strictseo.com/) - 🆓 Local-first SEO & AEO audit toolkit: 72 rendered-page checks, bounded crawls, and Search Console opportunity tracking for freelancers and consultants.
 - [Checkbot](https://www.checkbot.io/) - Crawls hundreds of pages at once, checking 50+ SEO, speed, and security rules.
 - [TextOptimizer](https://chromewebstore.google.com/detail/textoptimizer/fdbbkmpdjmpnebmdgbhcodhlafiicnkd) - Extracts intent terms from SERPs to improve topical relevance.
 - [BuzzSumo](https://chromewebstore.google.com/detail/buzzsumo/phpihcpfhciibkmlllgcjkbmhhpcaojc) - Content, link, and social research from the toolbar.
