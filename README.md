@@ -524,6 +524,7 @@ On-page SEO, schema, and sitemaps inside your CMS.
 Control how your pages look when shared and generate share images.
 
 - [OpenGraph.xyz](https://www.opengraph.xyz/) - 🆓 Preview and debug Open Graph / Twitter cards for any URL.
+- [ShareScan](https://sharescan.io/scan) - 🆓 Check Open Graph tags and image URLs across up to 10 public pages without an account.
 - [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/) - 🆓 Inspect and refresh Open Graph data Facebook has cached.
 - [LinkedIn Post Inspector](https://www.linkedin.com/post-inspector/) - 🆓 Preview and re-scrape link previews for LinkedIn.
 - [ShotOG](https://github.com/nicepkg/shotog) - 🔓 🆓 Open-source, edge-native OG image generation API (~50ms).
