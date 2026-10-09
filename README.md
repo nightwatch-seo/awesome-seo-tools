@@ -120,6 +120,7 @@ Discover what to write about — trending topics, audience questions, and conten
 - [ChatGPT](https://chatgpt.com/) - 🆓 Brainstorm angles, outlines, and content gaps conversationally.
 - [Reddit](https://www.reddit.com/) - 🆓 Primary-source audience language, questions, and unmet needs.
 - [Google Scholar](https://scholar.google.com/) - 🆓 Authoritative sources and citations for research-backed content.
+- [WeWorkBuddy](https://weworkbuddy.com/) - Evidence-based topic research for AI creators using Hacker News, GitHub, and publisher sources.
 - [BuzzSumo](https://buzzsumo.com/) - Find the most-shared content and trending topics by keyword or domain.
 - [SparkToro](https://sparktoro.com/) - Audience research revealing what your market reads, watches, and follows.
 - [GummySearch](https://gummysearch.com/) - Mines Reddit for audience pain points and content ideas.
@@ -199,6 +200,7 @@ Brief, write, and grade content against what already ranks.
 
 - [ContentSwift](https://github.com/hilmanski/contentswift) - 🔓 Open-source content research and optimization tool for SEO.
 - [SearchSocket](https://searchsocket.com/) - 🆓 Real-time on-page suggestions aligned to Google's guidelines.
+- [WarmQuant](https://warmquant.com/) - 🆓 AI-assisted English drafts with configurable writing angles, author voice, and target readers; free and paid plans.
 - [Clearscope](https://www.clearscope.io/) - Premium content-grading platform with clean term/relevance reports.
 - [Surfer SEO](https://surferseo.com/) - Data-driven on-page workflow scoring content against SERP competitors.
 - [Frase](https://www.frase.io/) - Fast SERP research, briefs, and AI drafting in one editor.
