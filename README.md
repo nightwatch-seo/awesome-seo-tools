@@ -182,6 +182,7 @@ Audit your link profile, spy on competitors, prospect, and run outreach.
 
 Automate and optimize the links between your own pages.
 
+- [Internal Link Planner](https://benjaminolsen.dev/internal-link-planner/) - 🆓 Browser tool to review internal-link suggestions from a supplied page inventory, edit anchors and export a reviewed plan.
 - [Internal Link Juicer](https://internallinkjuicer.com/) - 🆓 Automatic internal linking plugin for WordPress.
 - [Link Whisper](https://linkwhisper.com/) - AI internal-link suggestions for WordPress and Shopify as you write.
 - [InLinks](https://inlinks.com/) - Entity-based internal linking and schema automation grounded in NLP.
