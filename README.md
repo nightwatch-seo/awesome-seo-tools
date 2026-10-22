@@ -280,6 +280,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [Yandex Webmaster](https://webmaster.yandex.com/) - 🆓 Indexing status, crawl stats, and query analytics for Yandex Search.
 - [Ahrefs Webmaster Tools](https://ahrefs.com/webmaster-tools) - 🆓 Free Site Audit (170+ checks) and Site Explorer for verified sites.
 - [SEO Site Checkup](https://seositecheckup.com/) - 🆓 Quick automated audit scoring common on-page and technical issues.
+- [MaxiMarket](https://maximarket.info/) - 🆓 Free technical SEO and AI-readiness audits with documented rules, developer fix guidance, and MCP integration.
 - [SiteAnalyzer](https://site-analyzer.pro/) - 🆓 Free desktop crawler with detailed per-page technical data.
 - [BROWSEO](https://www.browseo.net) - 🆓 X-ray view of your page as a search engine sees it, stripped of styling.
 - [SSR Checker](https://www.crawlably.com/ssr-checker/) - 🆓 Compares server-rendered vs. client-rendered output for any URL.
@@ -292,7 +293,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [Seomator](https://seomator.com/) - On-demand SEO audit with actionable fix lists.
 - [WebSite Auditor](https://www.link-assistant.com/website-auditor/) - Deep technical and on-page audit from SEO PowerSuite.
 - [PressProxy](https://pressproxy.io/) - No-code way to serve `blog.domain.tld` on `domain.tld/blog` via Cloudflare Workers.
-- [MaxiMarket](https://maximarket.info/) - 🆓 Free technical SEO and AI-readiness audits with documented rules, developer fix guidance, and MCP integration.
+
   
 
 ## Web Crawlers & Log Analysis
