@@ -286,6 +286,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [TechnicalSEO.com Tools](https://technicalseo.com/tools/) - 🆓 Free suite: robots, hreflang, schema, redirects, and more.
 - [SEO Review Tools](https://www.seoreviewtools.com/) - 🆓 Large free toolbox for audits, keywords, and links.
 - [URL Inspection (Search Console)](https://support.google.com/webmasters/answer/9012289) - 🆓 See how Google crawls, renders, and indexes a specific URL.
+- [Stillindexed Free Tools](https://stillindexed.com/tools) - 🆓 Robots.txt tester and other free indexability checks.
 - [Screpy](https://screpy.com/) - AI-assisted monitoring dashboard for SEO, speed, and uptime.
 - [Ryte](https://en.ryte.com/) - Website quality platform for technical audits, content, and monitoring.
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Grades a single page's optimization against a target keyword.
@@ -331,6 +332,7 @@ Get pages indexed and watch for changes, outages, and regressions.
 - [SpeedyIndex](https://speedyindex.com/) - Bulk indexing service for large URL sets.
 - [Omega Indexer](https://omegaindexer.com/) - Link and URL indexing service.
 - [Hexowatch](https://hexowatch.com/) - Monitors any page for visual, content, and code changes.
+- [Stillindexed](https://stillindexed.com/) - Checks robots.txt, noindex, canonicals, status codes, and sitemaps on a schedule and alerts on SEO regressions.
 
 ## Page Speed & Core Web Vitals
 
