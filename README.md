@@ -292,6 +292,8 @@ Find and fix crawlability, indexation, and on-page issues.
 - [Seomator](https://seomator.com/) - On-demand SEO audit with actionable fix lists.
 - [WebSite Auditor](https://www.link-assistant.com/website-auditor/) - Deep technical and on-page audit from SEO PowerSuite.
 - [PressProxy](https://pressproxy.io/) - No-code way to serve `blog.domain.tld` on `domain.tld/blog` via Cloudflare Workers.
+- [MaxiMarket](https://maximarket.info/) - 🆓 Free technical SEO and AI-readiness audits with documented rules, developer fix guidance, and MCP integration.
+  
 
 ## Web Crawlers & Log Analysis
 
