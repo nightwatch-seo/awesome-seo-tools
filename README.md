@@ -426,6 +426,7 @@ Understand traffic, behavior, and search performance — with privacy-friendly o
 - [Google Analytics 4](https://marketingplatform.google.com/about/analytics/) - 🆓 Google's event-based analytics standard for traffic and conversions.
 - [Microsoft Clarity](https://clarity.microsoft.com/) - 🆓 Free heatmaps and session recordings for behavior analysis.
 - [Matomo](https://matomo.org/) - 🔓 🆓 Open-source, self-hostable analytics with full data ownership.
+- [gsc-hub](https://github.com/izzipizzy/gsc-hub) - 🔓 🆓 Self-hosted multi-account hub for Google Search Console: all sites in one table, aggregated queries and pages, per-site SEO analytics.
 - [Plausible](https://plausible.io/) - 🔓 Lightweight, cookieless, privacy-first analytics.
 - [Umami](https://umami.is/) - 🔓 🆓 Simple, self-hosted, privacy-focused web analytics.
 - [Hotjar](https://www.hotjar.com/) - 🆓 Heatmaps, recordings, and feedback for behavior insight.
