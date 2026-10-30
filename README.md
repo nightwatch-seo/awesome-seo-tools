@@ -432,6 +432,7 @@ Understand traffic, behavior, and search performance — with privacy-friendly o
 - [GoatCounter](https://www.goatcounter.com/) - 🔓 🆓 Open-source, privacy-friendly analytics.
 - [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/) - 🆓 Free, privacy-first analytics with no client-side state.
 - [Statcounter](https://statcounter.com/) - 🆓 Simple visitor stats and Global Stats data.
+- [Vaneform](https://vaneform.com/) - 🆓 Free website traffic estimates, sources, and growth leaderboards for any domain.
 - [SEO Gets](https://seogets.com/) - Privacy-focused Search Console alternative built for agencies and affiliates.
 - [SEOTesting](https://seotesting.com/) - Runs SEO A/B tests and surfaces insights on top of Search Console data.
 - [Fathom Analytics](https://usefathom.com/) - Privacy-first, cookieless analytics.
