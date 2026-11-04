@@ -292,6 +292,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [Seomator](https://seomator.com/) - On-demand SEO audit with actionable fix lists.
 - [WebSite Auditor](https://www.link-assistant.com/website-auditor/) - Deep technical and on-page audit from SEO PowerSuite.
 - [PressProxy](https://pressproxy.io/) - No-code way to serve `blog.domain.tld` on `domain.tld/blog` via Cloudflare Workers.
+- [Redirect Map Checker](https://zequnweb.com/tools/redirect-map-checker/) - Free redirect map validator for a pasted old-to-new plan (up to 2,000 rows), flagging loops, chains and conflicts, for pre-launch checking only. It does not fetch URLs or confirm 301/308 status.
 
 ## Web Crawlers & Log Analysis
 
