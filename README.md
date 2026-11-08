@@ -494,6 +494,7 @@ Pull SEO data programmatically and wire tools together.
 - [Gumloop](https://www.gumloop.com/) - AI-native workflow automation for content and SEO tasks.
 - [AirOps](https://www.airops.com/) - Build AI workflows and agents for SEO content at scale.
 - [Serpstack](https://serpstack.com/) - Real-time Google SERP API.
+- [Datacircle](https://datacircle.dev/best-keyword-research-api) - 🆓 Benchmark of keyword, SERP and other GTM APIs, with prices and scores from real calls.
 - [ValueSERP](https://www.valueserp.com/) - Scalable SERP data API.
 - [Zenserp](https://zenserp.com/) - SERP API for Google, Bing, and more.
 - [ScraperAPI](https://www.scraperapi.com/) - Proxy and scraping API for large-scale data collection.
