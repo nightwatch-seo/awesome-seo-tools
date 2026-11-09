@@ -286,6 +286,7 @@ Find and fix crawlability, indexation, and on-page issues.
 - [TechnicalSEO.com Tools](https://technicalseo.com/tools/) - 🆓 Free suite: robots, hreflang, schema, redirects, and more.
 - [SEO Review Tools](https://www.seoreviewtools.com/) - 🆓 Large free toolbox for audits, keywords, and links.
 - [URL Inspection (Search Console)](https://support.google.com/webmasters/answer/9012289) - 🆓 See how Google crawls, renders, and indexes a specific URL.
+- [PageUtil Sitemap Comparison](https://pageutil.com/sitemap-compare/) - 🆓 Compare sitemap or URL inventories to find added, removed, and changed URLs and review migration redirect candidates.
 - [Screpy](https://screpy.com/) - AI-assisted monitoring dashboard for SEO, speed, and uptime.
 - [Ryte](https://en.ryte.com/) - Website quality platform for technical audits, content, and monitoring.
 - [Moz On-Page Grader](https://moz.com/tools/onpage-grader) - Grades a single page's optimization against a target keyword.
