@@ -501,6 +501,8 @@ Pull SEO data programmatically and wire tools together.
 - [Apify](https://apify.com/) - Web scraping and automation platform with ready-made actors.
 - [Bright Data SERP API](https://brightdata.com/products/serp-api) - 🏢 Enterprise-grade SERP and web-data collection.
 
+- [FlashData Google Search API](https://flashdata.dev/docs/sources/google_search) - Structured Google search results via REST API; API key authentication and paid Credits.
+
 ## CMS & WordPress Plugins
 
 On-page SEO, schema, and sitemaps inside your CMS.
