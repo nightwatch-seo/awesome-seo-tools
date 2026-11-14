@@ -463,6 +463,7 @@ Turn SEO data into automated, shareable reports.
 Validate markup, links, robots, and sitemaps.
 
 - [Rich Results Test](https://search.google.com/test/rich-results) - 🆓 Checks whether a page is eligible for Google rich results.
+- [FrostRank JSON Formatter](https://frostrank.com/tools/json-formatter) - 🆓 Free formatter and validator with exact line-and-column error messages, running entirely in the browser.
 - [Schema Markup Validator](https://validator.schema.org/) - 🆓 Validates Schema.org structured data of any type.
 - [Schema Markup Generator](https://technicalseo.com/tools/schema-markup-generator/) - 🆓 Generates JSON-LD structured data for common schema types.
 - [robots.txt Report (Search Console)](https://support.google.com/webmasters/answer/6062598) - 🆓 Inspect and debug how Google reads your robots.txt.
