@@ -488,6 +488,7 @@ Pull SEO data programmatically and wire tools together.
 - [Zapier](https://zapier.com/) - 🆓 No-code automation connecting SEO tools to thousands of apps.
 - [Make](https://www.make.com/) - 🆓 Visual, node-based automation for more complex SEO workflows.
 - [n8n](https://n8n.io/) - 🔓 🆓 Open-source, self-hostable workflow automation.
+- [AgentSEO](https://www.agentseo.dev/) - SEO and AEO data API and hosted MCP server for keyword research, Google SERP analysis, rank tracking, competitor research, and AI-search visibility; 100 one-time introductory credits, paid plans from $9/month.
 - [SerpApi](https://serpapi.com/) - Real-time SERP scraping API for Google and many other engines.
 - [DataForSEO](https://dataforseo.com/) - Comprehensive SEO data APIs — SERPs, keywords, backlinks, and on-page.
 - [SearchApi](https://www.searchapi.io/) - Fast, structured SERP and search-data API.
