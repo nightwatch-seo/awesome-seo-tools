@@ -490,6 +490,7 @@ Pull SEO data programmatically and wire tools together.
 - [n8n](https://n8n.io/) - 🔓 🆓 Open-source, self-hostable workflow automation.
 - [SerpApi](https://serpapi.com/) - Real-time SERP scraping API for Google and many other engines.
 - [DataForSEO](https://dataforseo.com/) - Comprehensive SEO data APIs — SERPs, keywords, backlinks, and on-page.
+- [AgentSEO](https://www.agentseo.dev/) - SEO and AEO data API for Google SERP analysis, keyword research, rank tracking, competitor insights, and AI-search visibility; includes a hosted MCP server, 100 one-time introductory credits, and paid plans from $9/month.
 - [SearchApi](https://www.searchapi.io/) - Fast, structured SERP and search-data API.
 - [Gumloop](https://www.gumloop.com/) - AI-native workflow automation for content and SEO tasks.
 - [AirOps](https://www.airops.com/) - Build AI workflows and agents for SEO content at scale.
